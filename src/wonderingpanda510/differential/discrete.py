@@ -1,5 +1,5 @@
 def diff(x, t):
-	if len(x) != len(t)
+	if len(x) != len(t):
 		raise("error")
 	v = []
 	for i in range(1, len(x)):
